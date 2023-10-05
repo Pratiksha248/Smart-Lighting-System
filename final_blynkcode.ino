@@ -10,8 +10,8 @@
 long duration;
 float distanceCm;
 char auth[] = "chFqrepM5Vs9mqUB-ns2HyDzqWUH-fE9";
-char ssid[] = "Pratiksha Sahoo";
-char pass[] = "Prish248";
+char ssid[] = "Username";
+char pass[] = "Password";
 // Pins declaration
 const int trigPin = 27;
 const int echoPin = 14; 
