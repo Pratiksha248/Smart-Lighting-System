@@ -11,7 +11,7 @@ long duration;
 float distanceCm;
 char auth[] = "chFqrepM5Vs9mqUB-ns2HyDzqWUH-fE9";
 char ssid[] = "WiFi-name";
-char pass[] = "WiFi-assword";
+char pass[] = "WiFi-password";
 // Pins declaration
 const int trigPin = 27;
 const int echoPin = 14; 
